@@ -1,0 +1,11 @@
+{
+  "name": "scollection",
+  "version": "0.1.0",
+  "description": "scollection API Documentation",
+  "title": "scollection API",
+  "url": "",
+  "template": {
+  "withCompare": false,
+  "withGenerator": true
+  }
+}
